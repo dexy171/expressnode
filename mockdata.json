@@ -1,9 +1,1 @@
-{
-  "name": "Jan",
-  "surname": "Kowalski",
-  "age": 30,
-  "address": {
-    "city": "Gdansk",
-    "street": "Warszawska 0"
-  }
-}
+[{"name":"Michał","surname":"Nowak","age":30,"address":{"city":"Gdansk","street":"Warszawska 0"}}]
